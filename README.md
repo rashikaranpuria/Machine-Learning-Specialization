@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine-Learning-Specification-University-of-Washington-
 Coursera Assignment and Project of Machine learning specialization on coursera from University of washington.
 
@@ -45,10 +44,4 @@ In this case study on analyzing sentiment,I created models that predicted a clas
 * Use techniques for handling missing data.
 * Evaluate your models using precision-recall metrics.
 * Implemented these techniques in Python 
-||||||| merged common ancestors
-# Machine-Learning-Specialization
-Exercises and programs developed under Machine Learning Specialization by University of Washington.
-=======
-# Machine-Learning-Specialization
-Exercises,assignments and programs developed under Machine Learning Specialization by University of Washington.
->>>>>>> 7833d6524f92a17b6064f419c1f357f4fb08336a
+
