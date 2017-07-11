@@ -37,7 +37,7 @@ In this course, I explored regularized linear regression models for the task of 
 * Exploit the model to form predictions. 
 * Build a regression model to predict prices using a housing dataset.
 
-### Classification:
+### 3. Classification:
 
 #### Case Studies: Analyzing Sentiment & Loan Default Prediction
 
@@ -61,7 +61,7 @@ In this case study on analyzing sentiment, I created models that predicted a cla
 * Use techniques for handling missing data.
 * Evaluate models using precision-recall metrics.
 
-### Clustering:
+### 4. Clustering:
 
 #### Case study: Finding Similar Documents
 
